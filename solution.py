@@ -1,6 +1,6 @@
-def answer(plaintext):
+def solution(s):
     output = ""
-    for i in plaintext:
+    for i in s:
         print(i)
         if (i.isupper()):
             output += "000001"
@@ -38,4 +38,4 @@ braille = [
     "101011",
 ]
 
-print(answer("The quick brown fox jumps over the lazy dog"))
+print(solution("The quick brown fox jumps over the lazy dog"))
