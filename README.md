@@ -14,3 +14,5 @@ get an invitation.
 If you manage to access Foobar these python scripts can be used to solve some of
 the challenges. The challenges can be solved in Java or Python (I prefer Python).
 Make sure your code is a function that can be run by a filerunner.py.
+
+![Level 1](https://github.com/samuraininja360/foobar/blob/main/Level%201%20Complete.PNG)
