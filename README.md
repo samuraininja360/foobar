@@ -23,3 +23,6 @@ To be fair level 1 is quite easy considering it only requires knowledge on array
 or dictionaries. The challenges can vary from person to person since Google doesn't
 want to make foobar too easy to complete. There are other rescources that may help
 online, but Google Foobar's final levels are thought to be quite challenging.
+
+## Hack Code
+Use this referral link to access foobar directly [Foobar With Google](https://foobar.withgoogle.com/?eid=S2TlU) 
